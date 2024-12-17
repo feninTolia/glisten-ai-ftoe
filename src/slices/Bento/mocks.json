@@ -1,0 +1,173 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "The new\nGold Standard.",
+							"spans": [
+								{
+									"type": "em",
+									"start": 8,
+									"end": 21
+								}
+							]
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ad ex cupidatat duis ad mollit consectetur esse aliqua commodo ea commodo dolor duis. Sint Lorem culpa duis ea proident incididunt non."
+						}
+					}
+				]
+			},
+			"bento_items": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Whispered"
+											}
+										}
+									]
+								}
+							],
+							[
+								"body",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Esse amet fugiat cillum nisi eu officia commodo laborum proident culpa consectetur nostrud. Veniam ut nisi pariatur mollit dolor veniam ipsum qui eiusmod fugiat veniam ipsum qui."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a",
+										"width": 3456,
+										"height": 4320
+									},
+									"url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a",
+									"width": 3456,
+									"height": 4320,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"credits": null,
+									"alt": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "The new\nGold Standard.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"body",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Esse amet fugiat cillum nisi eu officia commodo laborum proident culpa consectetur nostrud. Veniam ut nisi pariatur mollit dolor veniam ipsum qui eiusmod fugiat veniam ipsum qui.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"__TYPE__": "ImageContent",
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1579301070173-42e08e87defe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHx1bHRyYSUyMHdpZGV8ZW58MHx8fHwxNzMzOTg5ODgzfDA&ixlib=rb-4.0.3&q=85",
+									"alt": "white and black bird flying under blue sky during daytime",
+									"origin": {
+										"id": "pLFgl3E113Y",
+										"url": "https://images.unsplash.com/photo-1579301070173-42e08e87defe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw0fHx1bHRyYSUyMHdpZGV8ZW58MHx8fHwxNzMzOTg5ODgzfDA&ixlib=rb-4.0.3&q=85",
+										"width": 5709,
+										"height": 2375
+									},
+									"width": 5709,
+									"height": 2375,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										}
+									},
+									"thumbnails": {}
+								}
+							],
+							[
+								"wide",
+								{
+									"__TYPE__": "BooleanContent",
+									"value": true
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

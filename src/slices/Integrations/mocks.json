@@ -1,0 +1,114 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Realize"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Laboris veniam ut ex aute fugiat aliquip dolore anim commodo id. Et proident culpa dolore irure eu sunt id ullamco. Voluptate occaecat occaecat esse esse elit sunt consectetur esse."
+						}
+					}
+				]
+			},
+			"icons": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"item",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "cloudflare",
+									"type": "Select"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"item",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "digitalocean",
+									"type": "Select"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"item",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "fly",
+									"type": "Select"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"item",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Select",
+									"value": "npm"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"item",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Select",
+									"value": "github"
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"item",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "figma",
+									"type": "Select"
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
